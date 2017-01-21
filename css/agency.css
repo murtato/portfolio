@@ -241,7 +241,7 @@ z-index:1052}.portfolio-modal .modal-backdrop{opacity:0;
   background:#fed136}::selection{text-shadow:none;
   background:#fed136}img::selection{background:0 0}img::-moz-selection{background:0 0}body{webkit-tap-highlight-color:#fed136}
 
-.devicon-angularjs-plain-wordmark, .devicon-bootstrap-plain-wordmark, .devicon-css3-plain-wordmark, .devicon-git-plain-wordmark, .devicon-github-plain-wordmark, .devicon-heroku-original-wordmark, .devicon-html5-plain-wordmark, .devicon-javascript-plain, .devicon-jquery-plain-wordmark, .devicon-mongodb-plain-wordmark, .devicon-nodejs-plain-wordmark, .devicon-postgresql-plain-wordmark, .devicon-rails-plain-wordmark, .devicon-ruby-plain-wordmark, .devicon-vim-plain {
+.devicon-angularjs-plain-wordmark, .devicon-bootstrap-plain-wordmark, .devicon-css3-plain-wordmark, .devicon-git-plain-wordmark, .devicon-github-plain-wordmark, .devicon-heroku-original-wordmark, .devicon-html5-plain-wordmark, .devicon-javascript-plain, .devicon-jquery-plain-wordmark, .devicon-mongodb-plain-wordmark, .devicon-nodejs-plain-wordmark, .devicon-postgresql-plain-wordmark, .devicon-rails-plain-wordmark, .devicon-ruby-plain-wordmark, .devicon-vim-plain, .devicon-sass-original, .devicon-atom-original-wordmark, .devicon-wordpress-plain, .devicon-react-original-wordmark, .devicon-gulp-plain, .devicon-amazonwebservices-original, .devicon-sourcetree-plain{
   font-size: 12rem;
   display: inline-table;
   margin: 23px;
