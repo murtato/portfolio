@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
 
 [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -25,3 +26,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/gh-pages/LICENSE) license.
+=======
+# portfolio
+08 12 2016
+Considering starting my portfolio over from scratch again so I can build my own theme.
+>>>>>>> gh-pages
