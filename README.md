@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
 
 [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
